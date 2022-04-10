@@ -15,6 +15,13 @@
 <p> O método utiliza dos métodos valida() das classes criadas em Services.py, que consomem os endpoints e validam a resposta. </p>
 
 
+<h3> To Do </hr>
+<ul>
+   <li> Unit Tests </li>
+   <li> Deploy Heroku </li>
+  </ul>
+
+
 
   
   
