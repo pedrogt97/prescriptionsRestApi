@@ -1,10 +1,12 @@
 # prescriptionsRestApi
 
 <b>Para rodar a aplicação no localhost </b>: <br>
-   1 - Clonar repositório <br>
-   Na linha de comando no diretório: <br>
-   2 - pip install -r requirements.txt <br>
-   3 - python app.py <br>
+<ol>
+   <li> Clonar repositório </li>
+   <span> Na linha de comando dentro do diretório: </span><br>
+   <li>  pip install -r requirements.txt </li>
+   <li>  python app.py </li>
+   </ol>
   
   
 <h2> Documentação </h2>
