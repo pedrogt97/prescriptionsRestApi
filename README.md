@@ -16,10 +16,16 @@
 <p> Também disponibiliza decorators para routing e HTTP METHODS, permitindo a abstração do request. Para este teste, implementei o método add_prescription. </p>
 <p> O método utiliza dos métodos valida() das classes criadas em Services.py, que consomem os endpoints e validam a resposta. </p>
 
+<h3>
+   Para testar:
+   <ol>
+      <li> python app.py </li>
+      <li> python test.py </li>
+   </ol>
+
 
 <h3> To Do </hr>
 <ul>
-   <li> Unit Tests </li>
    <li> Deploy Heroku </li>
   </ul>
 
