@@ -17,11 +17,13 @@
 <p> O método utiliza dos métodos valida() das classes criadas em Services.py, que consomem os endpoints e validam a resposta. </p>
 
 <h3>
-   Para testar, usando a linha de comando:
+   Para testar, usando a linha de comando:</h3>
    <ol>
       <li> python app.py </li>
       <li> python test.py </li>
    </ol>
+   
+   
 
 
 <h3> To Do </hr>
