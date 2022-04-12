@@ -22,7 +22,7 @@
       <li> python app.py </li>
       <li> python test.py </li>
    </ol>
-   
+   <b>Obs: Trocar o primeiro argumento passado para o método client.post caso o endereço default do localhost for diferente de http://127.0.0.1:8000 (linha 18 test.py)
    
 
 
